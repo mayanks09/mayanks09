@@ -106,7 +106,7 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanks09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-2a25ab251/)
 [![Resume](https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u4jzG65n09X9YctNHP79QMBpAeqZEZBD/view?usp=drive_link)
 
 </div>
