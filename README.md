@@ -23,10 +23,10 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
 ## 🚀 About Me
 
-- **Role:** Full Stack Developer at a SaaS Logistics Platform
+- **Current role:** Software Developer at a SaaS Logistics Platform
 - **Location:** Gurugram, India 🇮🇳
-- **Focus:** Web Applications · Scalable Systems · Clean UI/UX
-- **Currently learning:** System Design · Cloud Architecture
+- **Focus:** React & Next.js · Responsive UI · Performance & Accessibility
+- **Currently learning:** AI-assisted development · LLM integrations · Building smarter UIs with AI
 - **Fun fact:** I think in components and dream in TypeScript 🧩
 
 ---
