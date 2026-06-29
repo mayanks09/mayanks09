@@ -65,10 +65,10 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🗣️ [**Quora Clone**](https://github.com/mayanks09/Quora) | A Q&A social platform where users ask, answer, and discover knowledge | JavaScript, React |
-| 🛍️ [**ASOS Clone**](https://github.com/mayanks09/Asos) | Fashion e-commerce UI with product listings, cart & user auth flows | JavaScript |
-| 👕 [**Bewakoof Clone**](https://github.com/mayanks09/Bewakoof) | E-commerce clone with rich product browsing experience | HTML, CSS, JS |
-| 🏋️ [**MyFitnessPal Clone**](https://github.com/mayanks09/Myfitnesspal) | Health & fitness tracker with diet and calorie management features | JavaScript |
+| 🗣️ [**Quora Clone**](https://github.com/mayanks09/Quora) | A Q&A social platform where users ask, answer, and discover knowledge | React.js, Redux, Node.js, Express, MongoDB |
+| 🏋️ [**MyFitnessPal Clone**](https://github.com/mayanks09/Myfitnesspal) | Health & fitness tracker with diet and calorie management features | JavaScript, React.js, Redux, Context API |
+| 🛍️ [**ASOS Clone**](https://github.com/mayanks09/Asos) | Fashion e-commerce UI with product listings, cart & user auth flows | HTML, CSS, JavaScript, JSON Server |
+| 👕 [**Bewakoof Clone**](https://github.com/mayanks09/Bewakoof) | E-commerce clone with rich product browsing experience | HTML, CSS, JavaScript, Web APIs |
 
 ---
 
