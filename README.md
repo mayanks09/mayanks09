@@ -13,8 +13,9 @@
 **Full Stack Developer** crafting scalable web experiences · Based in **Gurugram, India** 🇮🇳  
 Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mayanks09.vercel.app-3B82F6?style=for-the-badge&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-mayanks09-181717?style=for-the-badge&logo=github)](https://github.com/mayanks09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-2a25ab251/)
+[![Resume](https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u4jzG65n09X9YctNHP79QMBpAeqZEZBD/view?usp=drive_link)
 
 </div>
 
@@ -22,16 +23,11 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
 ## 🚀 About Me
 
-```ts
-const mayank = {
-  role: "Full Stack Developer",
-  company: "SaaS Logistics Platform",
-  location: "Gurugram, India 🇮🇳",
-  focus: ["Web Applications", "Scalable Systems", "Clean UI/UX"],
-  currentlyLearning: ["System Design", "Cloud Architecture"],
-  funFact: "I think in components and dream in TypeScript 🧩"
-};
-```
+- **Role:** Full Stack Developer at a SaaS Logistics Platform
+- **Location:** Gurugram, India 🇮🇳
+- **Focus:** Web Applications · Scalable Systems · Clean UI/UX
+- **Currently learning:** System Design · Cloud Architecture
+- **Fun fact:** I think in components and dream in TypeScript 🧩
 
 ---
 
@@ -60,6 +56,8 @@ const mayank = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
@@ -107,9 +105,9 @@ const mayank = {
 
 I'm always open to interesting projects, collaborations, or just a good tech conversation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanks09)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayanks09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanks09)
+[![Resume](https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1u4jzG65n09X9YctNHP79QMBpAeqZEZBD/view?usp=drive_link)
 
 </div>
 
