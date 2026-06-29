@@ -27,7 +27,7 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 - **Location:** Gurugram, India 🇮🇳
 - **Focus:** React & Next.js · Responsive UI · Performance & Accessibility
 - **Currently learning:** AI-assisted development · LLM integrations · Building smarter UIs with AI
-- **Fun fact:** I think in components and dream in TypeScript 🧩
+- **Fun fact:** I can't scroll past a messy UI without mentally redesigning it 🎨
 
 ---
 
@@ -76,8 +76,8 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayanks09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanks09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayanks09&theme=tokyonight" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayanks09&theme=tokyonight" />
 
 </div>
 
@@ -93,7 +93,7 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayanks09&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gamma.vercel.app/?username=mayanks09&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
