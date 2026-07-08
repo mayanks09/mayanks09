@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Mayank%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=e0f2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Mayank%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20&descColor=e0f2fe" />
 
 </div>
 
@@ -10,8 +10,9 @@
 
 ### 👋 Hey there! I'm Mayank
 
-**Full Stack Developer** crafting scalable web experiences · Based in **Gurugram, India** 🇮🇳  
-Currently building the future of logistics tech at a **SaaS company** 🚛⚡
+**Software Engineer** specializing in **full stack web applications** for **enterprise SaaS** platforms · Based in **Gurugram, India** 🇮🇳
+
+Expert in the modern JavaScript ecosystem — **React**, **Next.js**, **TypeScript**, **Redux**, and **Node.js**. I work across the stack on **architecture**, **performance optimization**, and **real-time systems**, building scalable, maintainable solutions from complex business requirements.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-2a25ab251/)
@@ -23,9 +24,9 @@ Currently building the future of logistics tech at a **SaaS company** 🚛⚡
 
 ## 🚀 About Me
 
-- **Current role:** Software Developer at a SaaS Logistics Platform
+- **Current role:** Software Engineer building full stack web applications at a SaaS Logistics Platform
 - **Location:** Gurugram, India 🇮🇳
-- **Focus:** React & Next.js · Responsive UI · Performance & Accessibility
+- **Focus:** Full Stack Web · React & Next.js · Node.js & APIs · Performance & Real-time Systems
 - **Currently learning:** AI-assisted development · LLM integrations · Building smarter UIs with AI
 - **Fun fact:** I can't scroll past a messy UI without mentally redesigning it 🎨
 
