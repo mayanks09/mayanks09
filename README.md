@@ -10,8 +10,7 @@
 
 ### 👋 Hey there! I'm Mayank
 
-**Software Engineer** specializing in **full stack web applications** for **enterprise SaaS** platforms · Based in **Gurugram, India** 🇮🇳
-
+Software Engineer specializing in full stack web applications, real-time systems and enterprise SaaS platforms.
 Expert in the modern JavaScript ecosystem — **React**, **Next.js**, **TypeScript**, **Redux**, and **Node.js**. I work across the stack on **architecture**, **performance optimization**, and **real-time systems**, building scalable, maintainable solutions from complex business requirements.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://mayanks09-portfolio.vercel.app/)
